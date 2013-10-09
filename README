@@ -3,7 +3,8 @@ A proxy for puush
 
 This proxy allows you to upload screenshots captured with puush to your own server.
 Check http://puush.me for more information on puush.
-
+This is a fork of https://github.com/mave/puushproxy without requiring MongoDB, and uses it's own embedded database
+ (using Node Embedded Database - nedb)
 Requirements
 ---
  * Node.js v0.4.12 or higher (+ npm) --- http://www.nodejs.org
