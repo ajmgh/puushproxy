@@ -7,10 +7,9 @@ Check http://puush.me for more information on puush.
 Requirements
 ---
  * Node.js v0.4.12 or higher (+ npm) --- http://www.nodejs.org
- * MongoDB --- http://www.mongodb.org
  * formidable --- npm install formidable
  * mime --- npm install mime
- * mongoose --- npm install mongoose
+ * nedb --- npm install nedb
 
 Configuration
 ---
