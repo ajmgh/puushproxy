@@ -1,5 +1,5 @@
 puush proxy
-A proxy for puush
+A proxy for puush, requires no external database
 
 This proxy allows you to upload screenshots captured with puush to your own server.
 Check http://puush.me for more information on puush.
